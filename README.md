@@ -10,7 +10,9 @@
 ### Endpoints
 - Get
 > /v1/joke
+
 > /v1/joke/average
+
 > /v1/joke/unrateds
 
 - Post
