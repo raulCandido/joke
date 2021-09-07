@@ -1,0 +1,17 @@
+br\com\sensedia\joke\service\JokeService.class
+br\com\sensedia\joke\resource\JokeResource.class
+br\com\sensedia\joke\service\RateJokeService.class
+br\com\sensedia\joke\client\JokeApiClient.class
+br\com\sensedia\joke\JokeApplication.class
+br\com\sensedia\joke\model\form\RateForm.class
+br\com\sensedia\joke\config\validation\ErrorValidationHandler.class
+br\com\sensedia\joke\model\CategoryRate.class
+br\com\sensedia\joke\model\Rate.class
+br\com\sensedia\joke\exception\JokeApiException.class
+br\com\sensedia\joke\exception\MessageError.class
+br\com\sensedia\joke\model\Joke.class
+br\com\sensedia\joke\exception\OutOfJokeException.class
+br\com\sensedia\joke\model\dto\JokeDto.class
+br\com\sensedia\joke\repository\JokeRespository.class
+br\com\sensedia\joke\config\SpringFoxConfig.class
+br\com\sensedia\joke\repository\RateRepository.class

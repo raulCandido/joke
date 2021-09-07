@@ -1,0 +1,17 @@
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\model\form\RateForm.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\config\validation\ErrorValidationHandler.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\exception\OutOfJokeException.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\repository\JokeRespository.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\exception\MessageError.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\client\JokeApiClient.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\model\Joke.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\service\JokeService.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\model\CategoryRate.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\resource\JokeResource.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\config\SpringFoxConfig.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\model\dto\JokeDto.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\model\Rate.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\repository\RateRepository.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\service\RateJokeService.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\exception\JokeApiException.java
+D:\dese\worspace-spring\joke\src\main\java\br\com\sensedia\joke\JokeApplication.java
