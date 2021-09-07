@@ -4,6 +4,7 @@
  
  - Executar app com docker
 > 1 - docker build -t sensedia/joker
+
 > 2 - docker run -p 8080:8080 sensedia/joker
 
 ### Endpoints
